@@ -1,0 +1,7 @@
+1. Define Memory Hierarchy.
+2. Write about RAM and ROM chips with types.
+3. Define Auxiliary Memory with some types.
+4. What is Associative Memory? How it works.
+5. Define Cache Memory. What is cache miss and cache miss. How can you find cache hit and miss ratio? 
+6. What is Cache Mapping? Write about its different types.
+7. Define IOP, write about its importance.
