@@ -1,3 +1,6 @@
+// assignment - 4 
+Computer Architecture
+
 1. Define Memory Hierarchy.
 2. Write about RAM and ROM chips with types.
 3. Define Auxiliary Memory with some types.
