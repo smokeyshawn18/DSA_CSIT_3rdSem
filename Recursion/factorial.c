@@ -10,6 +10,8 @@ int factorial(int n) {
 
 int main() {
     int num;
+    printf("Shudarsan Paudel \n");
+    printf("\n");
     printf("Enter a number: ");
     scanf("%d", &num);
     

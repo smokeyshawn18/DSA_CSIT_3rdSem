@@ -62,9 +62,10 @@ void display() {
 // Main function with menu
 int main() {
     int choice, value;
+    printf("Shudarsan Paudel \n");
     
     while (1) {
-        printf("\nShudarsan Paudel\n");
+      
         printf("\nStack Menu:\n");
         printf("1. Push\n");
         printf("2. Pop\n");

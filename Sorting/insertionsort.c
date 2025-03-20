@@ -28,6 +28,13 @@ void print(int arr[], int n){
 int main(){
     int arr[] = {3,2,6,4,9,22,15};
     int n = sizeof(arr) / sizeof(arr[0]); // array size calculation
+
+    printf("Shudarsan Paudel \n");
+    printf("\n");
+
+    printf("Original array is: ");
+    print(arr, n);
+
     insertionSort(arr, n);
     printf("Sorted Array is: ");
     print(arr, n);

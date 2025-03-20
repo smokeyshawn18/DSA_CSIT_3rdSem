@@ -169,6 +169,7 @@ void display() {
 // Main function with menu-driven approach
 int main() {
     int choice, value, position;
+    printf("Shudarsan Paudel \n");
     
     while (1) {
         printf("\nDoubly Linked List Operations:");

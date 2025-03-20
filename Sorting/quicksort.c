@@ -40,9 +40,11 @@ void printArray(int arr[], int size) {
 
 // Main function
 int main() {
-    int arr[] = {10, 7, 8, 9, 1, 5};
+    int arr[] = {10, 7, 8, 9, 1, 5, 12};
     int size = sizeof(arr) / sizeof(arr[0]);
 
+    printf("Shudarsan Paudel \n");
+    printf("\n");
     printf("Original array: ");
     printArray(arr, size);
 

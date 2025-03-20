@@ -76,6 +76,7 @@ void display() {
 // Main function with menu
 int main() {
     int choice, value;
+    printf("Shudarsan Paudel \n");
     
     while (1) {
         printf("\nQueue Menu:\n");

@@ -184,6 +184,7 @@ void display() {
 
 int main() {
     int choice, data, position;
+    printf("Shudarsan Paudel \n");
     
     while (1) {
         printf("\nCircular Doubly Linked List Menu:\n");

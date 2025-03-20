@@ -38,9 +38,11 @@ void printArray(int arr[], int size) {
 
 // Main function to test the implementation
 int main() {
-    int arr[] = {12, 34, 54, 2, 3};
+    int arr[] = {12, 34, 54, 2, 3, 30, 11};
     int size = sizeof(arr) / sizeof(arr[0]);
 
+    printf("Shudarsan Paudel \n");
+    printf("\n");
     printf("Original array: ");
     printArray(arr, size);
 

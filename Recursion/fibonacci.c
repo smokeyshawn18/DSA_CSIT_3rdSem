@@ -3,6 +3,8 @@
 
 void main () {
     int n,i;
+    printf("Shudarsan Paudel \n");
+    printf("\n");
     int fibonacci(int);
     printf("Enter the value of n: ");
     scanf("%d", &n);
